@@ -1147,7 +1147,7 @@ print(f"""
                                   \033[1;33mhttps://github.com/MrSanZz
 """)
 time.sleep(0.5)
- #Whoever Recode This Project, You Are Fuck Ass Kid
+
 time.sleep(0.5)
 print(info + f'            [ ]Remember !, If The Tools Had A Error, Please Waiting For The Update.[ ]')
 print(f"""{yellow}┌─────────────────────────────────────────────────────────────────────────────────────────────────┐{blue}
